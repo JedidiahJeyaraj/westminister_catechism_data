@@ -1,0 +1,16 @@
+[
+  {
+    "sno": 1,
+    "question": "What is the chief end of man?",
+    "answer": "To Glorify God",
+    "supportingVerses": [
+      {
+        "ref": "Romans 11:36",
+        "verse": {
+          "ESV": "For of Him",
+          "NIV": "Hello"
+        }
+      }
+    ]
+  }
+]
