@@ -2,13 +2,27 @@
   {
     "sno": 1,
     "question": "What is the chief end of man?",
-    "answer": "To Glorify God",
+    "answer": "Man’s chief end is to glorify God, and to enjoy him for ever.",
     "supportingVerses": [
       {
         "ref": "Romans 11:36",
         "verse": {
           "ESV": "For of Him",
-          "NIV": "Hello"
+          "KJV": "For of him, and through him, and to him, are all things: to whom be glory for ever. Amen"
+        }
+      }
+    ]
+  },
+  {
+    "sno": 12,
+    "question": "What special act of providence did God exercise toward man in the estate wherein he was created?",
+    "answer": "When God had created man, he entered into a covenant of life with him, upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death.",
+    "supportingVerses": [
+      {
+        "ref": "Genesis 2:16–17",
+        "verse": {
+          "ESV": "For of Him",
+          "KJV": "16. And the Lord God commanded the man, saying, Of every tree of the garden †thou mayest freely eat: 17. But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof †thou shalt surely die."
         }
       }
     ]
