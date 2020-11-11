@@ -1,10 +1,5 @@
 [
   {
-    "display_text" : "Test Nav",
-    "fetch_link" : "jhjhjhh",
-    "path" : "/test"
-  },
-  {
     "display_text" : "Westminster Shorter Catechism",
     "fetch_link" : "https://raw.githubusercontent.com/JedidiahJeyaraj/westminister_catechism_data/main/westminster_shorter_catechism.json",
     "path" : "/westminster-shorter-catechism",
