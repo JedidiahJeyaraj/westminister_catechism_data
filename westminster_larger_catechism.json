@@ -1,0 +1,18 @@
+[
+  {
+    "sno": "1",
+    "question": "What is the chief end of man?",
+    "answer": "Man's chief end is to glorify God, and to enjoy him forever.",
+    "supportingVerses": [
+      {
+        "ref": "Romans 11:36",
+        "verse": {
+          "ESV": "For from him and through him and to him are all things. To him be glory forever. Amen.",
+          "KJV": "For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.",
+          "NASB": "For from Him and through Him and to Him are all things. To Him be the glory forever. Amen.",
+          "NIV": "For from him and through him and for him are all things. To him be the glory forever! Amen."
+        }
+      }
+    ]
+  }
+]
