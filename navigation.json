@@ -16,7 +16,7 @@
     "fetch_link" : "https://raw.githubusercontent.com/JedidiahJeyaraj/westminister_catechism_data/main/catechism_for_young_children.json",
     "path" : "/catechism-for-young-children",
     "updated_on": "2020-11-12 18:40:00Z"
-  }
+  },
   {
     "display_text" : "Nicene Creed",
     "fetch_link" : "https://raw.githubusercontent.com/JedidiahJeyaraj/westminister_catechism_data/main/nicene_creed.json",
