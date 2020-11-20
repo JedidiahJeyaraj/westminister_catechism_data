@@ -1,274 +1,276 @@
-[
-  {
-    "id": 1,
-    "patient_type": "Small Patient",
-    "part": "SKULL",
-    "view": "AP",
-    "kvp": "60-70",
-    "mAs": "10-12.5"
-  },
-  {
-    "id": 2,
-    "patient_type": "Small Patient",
-    "part": "SKULL",
-    "view": "LAT",
-    "kvp": "60-70",
-    "mAs": "12.5"
-  },
-  {
-    "id": 3,
-    "patient_type": "Small Patient",
-    "part": "PNS",
-    "view": "",
-    "kvp": "65-75",
-    "mAs": "12.5"
-  },
-  {
-    "id": 4,
-    "patient_type": "Small Patient",
-    "part": "C. SPINE",
-    "view": "AP",
-    "kvp": "55-68",
-    "mAs": "6.5"
-  },
-  {
-    "id": 5,
-    "patient_type": "Small Patient",
-    "part": "C. SPINE",
-    "view": "LAT",
-    "kvp": "55-68",
-    "mAs": "12.5"
-  },
-  {
-    "id": 6,
-    "patient_type": "Small Patient",
-    "part": "T.SPINE",
-    "view": "AP",
-    "kvp": "65-75",
-    "mAs": "32"
-  },
-  {
-    "id": 7,
-    "patient_type": "Small Patient",
-    "part": "T.SPINE",
-    "view": "LAT",
-    "kvp": "65-75",
-    "mAs": "45"
-  },
-  {
-    "id": 8,
-    "patient_type": "Small Patient",
-    "part": "L.S. SPINE",
-    "view": "AP",
-    "kvp": "70-80",
-    "mAs": "10-12.5"
-  },
-  {
-    "id": 9,
-    "patient_type": "Small Patient",
-    "part": "L.S. SPINE",
-    "view": "LAT",
-    "kvp": "70-80",
-    "mAs": "28-32"
-  },
-  {
-    "id": 10,
-    "patient_type": "Small Patient",
-    "part": "PELVIS",
-    "view": "AP",
-    "kvp": "65-75",
-    "mAs": "12.5"
-  },
-  {
-    "id": 11,
-    "patient_type": "Small Patient",
-    "part": "CHEST",
-    "view": "PA",
-    "kvp": "65-75",
-    "mAs": "3.2-5"
-  },
-  {
-    "id": 12,
-    "patient_type": "Small Patient",
-    "part": "CHEST",
-    "view": "AP",
-    "kvp": "65-75",
-    "mAs": "3.2-5"
-  },
-  {
-    "id": 13,
-    "patient_type": "Small Patient",
-    "part": "ABDOMEN",
-    "view": "AP",
-    "kvp": "65-85",
-    "mAs": "12.5"
-  },
-  {
-    "id": 14,
-    "patient_type": "Small Patient",
-    "part": "SHOULDER",
-    "view": "AP",
-    "kvp": "55-60",
-    "mAs": "10-12.5"
-  },
-  {
-    "id": 15,
-    "patient_type": "Small Patient",
-    "part": "HUMERUS",
-    "view": "AP",
-    "kvp": "55-65",
-    "mAs": "6.4"
-  },
-  {
-    "id": 16,
-    "patient_type": "Small Patient",
-    "part": "HUMERUS",
-    "view": "LAT",
-    "kvp": "55-60",
-    "mAs": "6.4"
-  },
-  {
-    "id": 17,
-    "patient_type": "Small Patient",
-    "part": "ELBOW",
-    "view": "AP",
-    "kvp": "52-55",
-    "mAs": "6.4"
-  },
-  {
-    "id": 18,
-    "patient_type": "Small Patient",
-    "part": "ELBOW",
-    "view": "LAT",
-    "kvp": "52-55",
-    "mAs": "6.4"
-  },
-  {
-    "id": 19,
-    "patient_type": "Small Patient",
-    "part": "FORE ARM",
-    "view": "AP",
-    "kvp": "50",
-    "mAs": "6.4"
-  },
-  {
-    "id": 20,
-    "patient_type": "Small Patient",
-    "part": "FORE ARM",
-    "view": "LAT",
-    "kvp": "50",
-    "mAs": "6.4"
-  },
-  {
-    "id": 21,
-    "patient_type": "Small Patient",
-    "part": "WRIST",
-    "view": "AP",
-    "kvp": "50",
-    "mAs": "6.4"
-  },
-  {
-    "id": 22,
-    "patient_type": "Small Patient",
-    "part": "WRIST",
-    "view": "LAT",
-    "kvp": "50",
-    "mAs": "6.4"
-  },
-  {
-    "id": 23,
-    "patient_type": "Small Patient",
-    "part": "HAND & FINGERS",
-    "view": "AP",
-    "kvp": "48",
-    "mAs": "6.4"
-  },
-  {
-    "id": 24,
-    "patient_type": "Small Patient",
-    "part": "HAND & FINGERS",
-    "view": "OBI",
-    "kvp": "48",
-    "mAs": "6.4"
-  },
-  {
-    "id": 25,
-    "patient_type": "Small Patient",
-    "part": "FEMUR",
-    "view": "AP",
-    "kvp": "60",
-    "mAs": "6.4"
-  },
-  {
-    "id": 26,
-    "patient_type": "Small Patient",
-    "part": "FEMUR",
-    "view": "LAT",
-    "kvp": "60",
-    "mAs": "6.4"
-  },
-  {
-    "id": 27,
-    "patient_type": "Small Patient",
-    "part": "KNEE",
-    "view": "AP",
-    "kvp": "60",
-    "mAs": "6.4"
-  },
-  {
-    "id": 28,
-    "patient_type": "Small Patient",
-    "part": "KNEE",
-    "view": "LAT",
-    "kvp": "60",
-    "mAs": "6.4"
-  },
-  {
-    "id": 29,
-    "patient_type": "Small Patient",
-    "part": "LEG",
-    "view": "AP",
-    "kvp": "60",
-    "mAs": "6.4"
-  },
-  {
-    "id": 30,
-    "patient_type": "Small Patient",
-    "part": "LEG",
-    "view": "LAT",
-    "kvp": "55",
-    "mAs": "6.4"
-  },
-  {
-    "id": 31,
-    "patient_type": "Small Patient",
-    "part": "ANKLE",
-    "view": "AP",
-    "kvp": "55",
-    "mAs": "6.4"
-  },
-  {
-    "id": 32,
-    "patient_type": "Small Patient",
-    "part": "ANKLE",
-    "view": "LAT",
-    "kvp": "55",
-    "mAs": "6.4"
-  },
-  {
-    "id": 33,
-    "patient_type": "Small Patient",
-    "part": "FOOT",
-    "view": "AP",
-    "kvp": "55",
-    "mAs": "6.4"
-  },
-  {
-    "id": 34,
-    "patient_type": "Small Patient",
-    "part": "FOOT",
-    "view": "LAT",
-    "kvp": "55",
-    "mAs": "6.4"
-  }
-]
+{
+  "Small Patient": [
+    {
+      "id": 1,
+      "patient_type": "Small Patient",
+      "part": "SKULL",
+      "view": "AP",
+      "kvp": "60-70",
+      "mAs": "10-12.5"
+    },
+    {
+      "id": 2,
+      "patient_type": "Small Patient",
+      "part": "SKULL",
+      "view": "LAT",
+      "kvp": "60-70",
+      "mAs": "12.5"
+    },
+    {
+      "id": 3,
+      "patient_type": "Small Patient",
+      "part": "PNS",
+      "view": "",
+      "kvp": "65-75",
+      "mAs": "12.5"
+    },
+    {
+      "id": 4,
+      "patient_type": "Small Patient",
+      "part": "C. SPINE",
+      "view": "AP",
+      "kvp": "55-68",
+      "mAs": "6.5"
+    },
+    {
+      "id": 5,
+      "patient_type": "Small Patient",
+      "part": "C. SPINE",
+      "view": "LAT",
+      "kvp": "55-68",
+      "mAs": "12.5"
+    },
+    {
+      "id": 6,
+      "patient_type": "Small Patient",
+      "part": "T.SPINE",
+      "view": "AP",
+      "kvp": "65-75",
+      "mAs": "32"
+    },
+    {
+      "id": 7,
+      "patient_type": "Small Patient",
+      "part": "T.SPINE",
+      "view": "LAT",
+      "kvp": "65-75",
+      "mAs": "45"
+    },
+    {
+      "id": 8,
+      "patient_type": "Small Patient",
+      "part": "L.S. SPINE",
+      "view": "AP",
+      "kvp": "70-80",
+      "mAs": "10-12.5"
+    },
+    {
+      "id": 9,
+      "patient_type": "Small Patient",
+      "part": "L.S. SPINE",
+      "view": "LAT",
+      "kvp": "70-80",
+      "mAs": "28-32"
+    },
+    {
+      "id": 10,
+      "patient_type": "Small Patient",
+      "part": "PELVIS",
+      "view": "AP",
+      "kvp": "65-75",
+      "mAs": "12.5"
+    },
+    {
+      "id": 11,
+      "patient_type": "Small Patient",
+      "part": "CHEST",
+      "view": "PA",
+      "kvp": "65-75",
+      "mAs": "3.2-5"
+    },
+    {
+      "id": 12,
+      "patient_type": "Small Patient",
+      "part": "CHEST",
+      "view": "AP",
+      "kvp": "65-75",
+      "mAs": "3.2-5"
+    },
+    {
+      "id": 13,
+      "patient_type": "Small Patient",
+      "part": "ABDOMEN",
+      "view": "AP",
+      "kvp": "65-85",
+      "mAs": "12.5"
+    },
+    {
+      "id": 14,
+      "patient_type": "Small Patient",
+      "part": "SHOULDER",
+      "view": "AP",
+      "kvp": "55-60",
+      "mAs": "10-12.5"
+    },
+    {
+      "id": 15,
+      "patient_type": "Small Patient",
+      "part": "HUMERUS",
+      "view": "AP",
+      "kvp": "55-65",
+      "mAs": "6.4"
+    },
+    {
+      "id": 16,
+      "patient_type": "Small Patient",
+      "part": "HUMERUS",
+      "view": "LAT",
+      "kvp": "55-60",
+      "mAs": "6.4"
+    },
+    {
+      "id": 17,
+      "patient_type": "Small Patient",
+      "part": "ELBOW",
+      "view": "AP",
+      "kvp": "52-55",
+      "mAs": "6.4"
+    },
+    {
+      "id": 18,
+      "patient_type": "Small Patient",
+      "part": "ELBOW",
+      "view": "LAT",
+      "kvp": "52-55",
+      "mAs": "6.4"
+    },
+    {
+      "id": 19,
+      "patient_type": "Small Patient",
+      "part": "FORE ARM",
+      "view": "AP",
+      "kvp": "50",
+      "mAs": "6.4"
+    },
+    {
+      "id": 20,
+      "patient_type": "Small Patient",
+      "part": "FORE ARM",
+      "view": "LAT",
+      "kvp": "50",
+      "mAs": "6.4"
+    },
+    {
+      "id": 21,
+      "patient_type": "Small Patient",
+      "part": "WRIST",
+      "view": "AP",
+      "kvp": "50",
+      "mAs": "6.4"
+    },
+    {
+      "id": 22,
+      "patient_type": "Small Patient",
+      "part": "WRIST",
+      "view": "LAT",
+      "kvp": "50",
+      "mAs": "6.4"
+    },
+    {
+      "id": 23,
+      "patient_type": "Small Patient",
+      "part": "HAND & FINGERS",
+      "view": "AP",
+      "kvp": "48",
+      "mAs": "6.4"
+    },
+    {
+      "id": 24,
+      "patient_type": "Small Patient",
+      "part": "HAND & FINGERS",
+      "view": "OBI",
+      "kvp": "48",
+      "mAs": "6.4"
+    },
+    {
+      "id": 25,
+      "patient_type": "Small Patient",
+      "part": "FEMUR",
+      "view": "AP",
+      "kvp": "60",
+      "mAs": "6.4"
+    },
+    {
+      "id": 26,
+      "patient_type": "Small Patient",
+      "part": "FEMUR",
+      "view": "LAT",
+      "kvp": "60",
+      "mAs": "6.4"
+    },
+    {
+      "id": 27,
+      "patient_type": "Small Patient",
+      "part": "KNEE",
+      "view": "AP",
+      "kvp": "60",
+      "mAs": "6.4"
+    },
+    {
+      "id": 28,
+      "patient_type": "Small Patient",
+      "part": "KNEE",
+      "view": "LAT",
+      "kvp": "60",
+      "mAs": "6.4"
+    },
+    {
+      "id": 29,
+      "patient_type": "Small Patient",
+      "part": "LEG",
+      "view": "AP",
+      "kvp": "60",
+      "mAs": "6.4"
+    },
+    {
+      "id": 30,
+      "patient_type": "Small Patient",
+      "part": "LEG",
+      "view": "LAT",
+      "kvp": "55",
+      "mAs": "6.4"
+    },
+    {
+      "id": 31,
+      "patient_type": "Small Patient",
+      "part": "ANKLE",
+      "view": "AP",
+      "kvp": "55",
+      "mAs": "6.4"
+    },
+    {
+      "id": 32,
+      "patient_type": "Small Patient",
+      "part": "ANKLE",
+      "view": "LAT",
+      "kvp": "55",
+      "mAs": "6.4"
+    },
+    {
+      "id": 33,
+      "patient_type": "Small Patient",
+      "part": "FOOT",
+      "view": "AP",
+      "kvp": "55",
+      "mAs": "6.4"
+    },
+    {
+      "id": 34,
+      "patient_type": "Small Patient",
+      "part": "FOOT",
+      "view": "LAT",
+      "kvp": "55",
+      "mAs": "6.4"
+    }
+  ]
+}
