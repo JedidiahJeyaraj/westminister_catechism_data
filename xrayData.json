@@ -384,7 +384,7 @@
     "view": "LAT",
     "kvp": "70-80",
     "mA": "100",
-    "mAs": 80
+    "mAs": "80"
   },
   {
     "id": 44,
@@ -400,7 +400,7 @@
     "patient_type": "Medium Patient",
     "part": "Chest",
     "view": "PA",
-    "kvp": 72,
+    "kvp": "72",
     "mA": "100",
     "mAs": "6.4-8"
   },
@@ -409,7 +409,7 @@
     "patient_type": "Medium Patient",
     "part": "Chest",
     "view": "AP",
-    "kvp": 72,
+    "kvp": "72",
     "mA": "100",
     "mAs": "6.4-8"
   },
