@@ -1,8 +1,0 @@
-INSERT INTO tool.functions (fun_name,fun_desc) VALUES
-	 ('User Creation',''),
-	 ('User View',''),
-	 ('User Deletion',''),
-	 ('Order Creation',''),
-	 ('Client Creation',''),
-	 ('Status Defination',''),
-	 ('Status Flow Creation','');
