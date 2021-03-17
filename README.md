@@ -1,3 +1,3 @@
 # westminister_catechism_data
 
-![alt text](./Wallpapers/image-asset.jpeg)
+![alt text](./Wallpapers/Christ Reformed Church - Logo.png)
